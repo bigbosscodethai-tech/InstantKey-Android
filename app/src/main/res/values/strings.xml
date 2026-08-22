@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstantKey</string>
+    <string name="accessibility_service_description">InstantKey Accessibility Service - Automatically shows keyboard when opening chat conversations</string>
+    <string name="status_accessibility">Accessibility Service</string>
+    <string name="status_keyboard">InstantKey Keyboard</string>
+    <string name="status_auto_keyboard">Auto Keyboard</string>
+    <string name="status_delay">Delay</string>
+    <string name="status_retry">Retry Count</string>
+    <string name="btn_enable_accessibility">Enable Accessibility</string>
+    <string name="btn_enable_keyboard">Enable Keyboard</string>
+    <string name="btn_keyboard_settings">Keyboard Settings</string>
+    <string name="btn_accessibility_settings">Accessibility Settings</string>
+    <string name="btn_supported_apps">Supported Apps</string>
+    <string name="btn_test_keyboard">Test Keyboard</string>
+    <string name="btn_advanced_settings">Advanced Settings</string>
+    <string name="msg_android_limitation">Note: Android may restrict automatic keyboard display in some applications or device ROMs.</string>
+    <string name="ms">ms</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>
