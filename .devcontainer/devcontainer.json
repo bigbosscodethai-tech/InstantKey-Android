@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "image": "mcr.microsoft.com/devcontainers/android:ubuntu-22.04",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Google.android-ndk-extension",
+        "Dart-Code.dart-code",
+        "Dart-Code.flutter"
+      ]
+    }
+  },
+  "postCreateCommand": "chmod +x gradlew",
+  "forwardPorts": [5037],
+  "remoteUser": "vscode"
+}
